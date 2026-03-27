@@ -27,7 +27,7 @@ Use this checklist to verify your MovieMatch setup and ensure everything is work
 
 ### Android Firebase Setup
 - [ ] Android app added to Firebase project
-- [ ] Package name matches: `com.example.moviematch` or custom
+- [ ] Package name matches: `com.moviematch.app`
 - [ ] SHA-1 fingerprint obtained (debug keystore)
 - [ ] SHA-1 fingerprint added to Firebase
 - [ ] `google-services.json` downloaded

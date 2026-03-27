@@ -142,7 +142,7 @@ service cloud.firestore {
 ##### Android Setup
 
 1. In Firebase Console, add an Android app
-2. Register your app with package name: `com.example.moviematch` (or your chosen package)
+2. Register your app with package name: `com.moviematch.app`
 3. Download `google-services.json`
 4. Place it in `android/app/` directory
 
